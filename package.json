@@ -11,5 +11,9 @@
     "typescript": "^2.1.4",
     "webpack": "beta"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "scripts": {
+    "build": "webpack",
+    "build-watch": "webpack --watch"
+  }
 }
