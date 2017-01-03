@@ -1,0 +1,13 @@
+# Ignore IDE files
+.idea
+
+# Package manager files
+/node_modules
+/npm-debug.log
+
+# Temp files
+/tmp/*
+
+
+# -- Keep this at the bottom of .gitignore! ----------------------------------------------------------------------------
+!.gitkeep
