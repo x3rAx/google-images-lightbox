@@ -1,0 +1,9 @@
+{
+  "name": "google-images-lightbox",
+  "version": "0.0.0",
+  "description": "Userscript to open google images search results in a lightbox overlay.",
+  "main": "./dist/google-images-lightbox.user.js",
+  "repository": "https://github.com/x3rAx/google-images-lightbox",
+  "author": "Björn Richter <x3ro1989@gmail.com>",
+  "license": "MIT"
+}
