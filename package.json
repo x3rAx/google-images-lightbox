@@ -5,5 +5,11 @@
   "main": "./dist/google-images-lightbox.user.js",
   "repository": "https://github.com/x3rAx/google-images-lightbox",
   "author": "Björn Richter <x3ro1989@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^1.3.3",
+    "typescript": "^2.1.4",
+    "webpack": "beta"
+  },
+  "dependencies": {}
 }
